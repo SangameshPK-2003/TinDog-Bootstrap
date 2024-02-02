@@ -46,11 +46,11 @@ Bootstrap has a large and active community of developers. Access forums, GitHub 
 
 ## Demo
 
-To watch a demo of this project, simply visit [Tindog Website](https://your-tindog-url.com) 
+To watch a demo of this project, simply visit [Tindog Website](https://sangameshpk-2003.github.io/TinDog-Bootstrap) 
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/SangameshPK-2003/tindog.git`
+1. Clone the repository: `git clone https://github.com/SangameshPK-2003/TinDog-Bootstrap.git`
 2. Open the `index.html` file in your web browser.
 
 ## Credits
