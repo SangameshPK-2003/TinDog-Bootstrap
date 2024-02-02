@@ -46,7 +46,7 @@ Bootstrap has a large and active community of developers. Access forums, GitHub 
 
 ## Demo
 
-To watch a demo of this project, simply visit [Tindog Website](https://sangameshpk-2003.github.io/TinDog-Bootstrap) 
+To see demo of this project, simply visit [Tindog Website](https://sangameshpk-2003.github.io/TinDog-Bootstrap) 
 
 ## Usage
 
