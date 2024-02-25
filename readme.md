@@ -1,5 +1,9 @@
 # Tindog
 
+## Demo
+
+To see demo of this project, simply visit [Tindog Website](https://sangameshpk-2003.github.io/TinDog-Bootstrap)
+
 ## Introduction
 
 Tindog is a fun and light-hearted website designed to bring together dog owners and their furry friends. Inspired by popular dating apps, Tindog connects dogs and their owners based on their location and interests. Whether you're looking for playdates, dog-walking companions, or even canine love, Tindog is the platform for you.
@@ -43,10 +47,7 @@ Easily customize the appearance of your Bootstrap-based projects with the themin
 ### 7. Community and Support
 
 Bootstrap has a large and active community of developers. Access forums, GitHub repositories, and other resources to seek help, share knowledge, and stay updated on the latest developments in the Bootstrap ecosystem.
-
-## Demo
-
-To see demo of this project, simply visit [Tindog Website](https://sangameshpk-2003.github.io/TinDog-Bootstrap) 
+ 
 
 ## Usage
 
